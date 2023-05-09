@@ -1,0 +1,24 @@
+{
+  "biological_molecules": {
+    "carbohydrates": {
+      "composition": "carbon, hydrogen, oxygen",
+      "function": "energy storage, structural support",
+      "examples": ["glucose", "starch", "cellulose"]
+    },
+    "lipids": {
+      "composition": "carbon, hydrogen, oxygen, sometimes phosphorus",
+      "function": "energy storage, insulation, protection of organs, cell signaling, membrane structure",
+      "examples": ["fats", "oils", "waxes"]
+    },
+    "proteins": {
+      "composition": "amino acids",
+      "function": "structural support, catalysis of chemical reactions, transport of molecules, immune system, regulation of gene expression",
+      "examples": ["enzymes", "hemoglobin", "collagen"]
+    },
+    "nucleic acids": {
+      "composition": "nucleotides",
+      "function": "store and transmit genetic information",
+      "examples": ["DNA", "RNA"]
+    }
+  }
+}
